@@ -1,4 +1,11 @@
-# CaC Flowchart Docs
+# content/docs
+
+This flowchart represents the high-level interaction of components under the `docs` folder.
+
+Note that colors are used to highlight components which interact with other folders under the `content` repository.
+
+> **NOTE**
+Since the colors have only visual effects when presented in individual flowcharts, they are very useful when analyzing multiple flowcharts together.
 
 <div class="mermaid" style="width=100%;">
 flowchart TD
@@ -19,5 +26,3 @@ flowchart TD
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-
-
