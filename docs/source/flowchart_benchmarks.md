@@ -20,5 +20,3 @@ flowchart TD
     style 101 fill: #FFD700,stroke:#333,stroke-width:4px
     style 102 fill: #A9A9A9,stroke:#333
 </div>
-
-<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
