@@ -4,8 +4,7 @@ This flowchart represents the high-level interaction of components under the `te
 
 Note that colors are used to highlight components which interact with other folders under the `content` repository.
 
-> **NOTE**
-Since the colors have only visual effects when presented in individual flowcharts, they are very useful when analyzing multiple flowcharts together.
+> ***NOTE***: Since the colors have only visual effects when presented in individual flowcharts, they are very useful when analyzing multiple flowcharts together.
 
 <div class="mermaid" style="width=100%;">
 graph LR

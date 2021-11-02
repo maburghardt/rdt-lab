@@ -24,10 +24,3 @@ so they can be easily ported, updated or modified locally or even `online <https
     flowchart_shared
     flowchart_tests
     flowchart_utils
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
