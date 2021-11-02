@@ -2,7 +2,6 @@
 <p>ComplianceAsCode Flowcharts:</p>
 <div class="mermaid" style="width=100%;">
 flowchart TD
-    <!-- Structure organized by groups -->
     subgraph docs
     180[docs] --> |about| 181[jinja_macros]
     180[docs] --> |contains| 182[manual]
