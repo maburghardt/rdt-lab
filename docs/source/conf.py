@@ -15,7 +15,6 @@ extensions = ['recommonmark',
     'sphinx_rtd_theme',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
-    'sphinxcontrib.autojinja.jinja',
     'sphinx.ext.autosectionlabel',
 ]
 
