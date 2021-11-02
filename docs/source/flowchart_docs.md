@@ -20,18 +20,4 @@ flowchart TD
 
 <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 
-<script>
-    var callback = function(){
-        alert('A callback was triggered');
-    }
-    var config = {
-        startOnLoad:true,
-        flowchart:{
-            useMaxWidth:true,
-            curve:'cardinal',
-        },
-        securityLevel:'loose',
-    };
 
-    mermaid.initialize(config);
-</script>
