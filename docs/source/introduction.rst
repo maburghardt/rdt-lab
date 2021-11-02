@@ -1,4 +1,4 @@
-ComplianceAsCode/content
+Introduction
 ========================
 
 As a complement for better understanding of how the ComplianceAsCode project interacts
@@ -15,7 +15,6 @@ so they can be easily ported, updated or modified locally or even `online <https
 .. toctree::
     :caption: ComplianceAsCode Flowcharts
 
-    introduction
     flowchart_benchmarks
     flowchart_build
     flowchart_controls
