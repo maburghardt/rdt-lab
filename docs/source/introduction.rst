@@ -11,16 +11,3 @@ so they can be easily ported, updated or modified locally or even `online <https
 .. tip::
    You can play with these individual flowcharts combining them in a bigger unified flowchart where you
    can create more complex relationships from different perspectives.
-
-.. toctree::
-    :caption: ComplianceAsCode Flowcharts
-
-    flowchart_benchmarks
-    flowchart_build
-    flowchart_controls
-    flowchart_docs
-    flowchart_products
-    flowchart_rules
-    flowchart_shared
-    flowchart_tests
-    flowchart_utils
