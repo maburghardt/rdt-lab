@@ -6,6 +6,7 @@ Note that colors are used to highlight components which interact with other fold
 
 > ***NOTE***: Since the colors have only visual effects when presented in individual flowcharts, they are very useful when analyzing multiple flowcharts together.
 
+<div class="mermaid" style="width=100%;">
 flowchart TD
     subgraph build
     110[build-scripts] --> |populates| 111[build]
@@ -16,3 +17,6 @@ flowchart TD
     end
     style 115 fill: #00FA9A,stroke:#333,stroke-width:4px
     style 112 fill: #A9A9A9,stroke:#333
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
