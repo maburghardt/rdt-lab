@@ -6,7 +6,7 @@ ComplianceAsCode/content
     :glob:
     :caption: Docs Flowchart
 
-    flowchart_docs.md
+    flowchart_docs
 
 Indices and tables
 ==================
