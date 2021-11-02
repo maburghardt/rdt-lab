@@ -1,5 +1,5 @@
-<h1>ComplianceAsCode</h1>
-<p>ComplianceAsCode Flowcharts:</p>
+# CaC Flowchart Docs
+
 <div class="mermaid" style="width=100%;">
 flowchart TD
     subgraph docs
@@ -28,15 +28,10 @@ flowchart TD
         startOnLoad:true,
         flowchart:{
             useMaxWidth:true,
-            htmlLabels:true,
             curve:'cardinal',
         },
         securityLevel:'loose',
     };
-
-    mermaid.flowchartConfig = {
-        width: 30%
-    }
 
     mermaid.initialize(config);
 </script>
