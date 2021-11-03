@@ -28,8 +28,8 @@ If you want to see nice graph showing dependencies between CMake targets, there 
 CMake feature worth to be checked.
 
 For example, the following commands will generate a `png` image showing the dependencies
-for the rhel8 build target:
-.. code-block:: bash
+for the rhel8 build target::
+
    cd content/build
    cmake --graphviz=ssg.dot ..
    dot -Tpng -o rhel8.png ssg.dot.rhel8
