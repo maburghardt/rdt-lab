@@ -1,4 +1,4 @@
-# content/shared
+## content/shared
 
 This flowchart represents the high-level interaction of components under the `shared` folder.
 

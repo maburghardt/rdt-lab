@@ -1,4 +1,4 @@
-# content/*/benchmarks
+## content/*/benchmarks
 
 This flowchart represents the high-level interaction of components under the `apple_os`, `appliacations` and `linux_os` folders.
 

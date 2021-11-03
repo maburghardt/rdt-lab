@@ -1,4 +1,4 @@
-# content/*/rules
+## content/*/rules
 
 This flowchart represents the high-level interaction of components under the `rules` folders.
 

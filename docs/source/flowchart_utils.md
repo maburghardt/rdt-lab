@@ -1,4 +1,4 @@
-# content/shared
+## content/shared
 
 This flowchart represents the high-level interaction of components under the `utils`, `release_tools`, `ssg` and `Dockerfiles` folders.
 

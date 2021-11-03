@@ -1,4 +1,4 @@
-# content/controls
+## content/controls
 
 This flowchart represents the high-level interaction of components under the `controls` folder.
 

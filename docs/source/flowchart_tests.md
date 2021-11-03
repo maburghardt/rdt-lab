@@ -1,4 +1,4 @@
-# content/tests
+## content/tests
 
 This flowchart represents the high-level interaction of components under the `tests` folder.
 

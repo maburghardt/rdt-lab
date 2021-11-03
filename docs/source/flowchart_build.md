@@ -1,4 +1,4 @@
-# content/build-scripts
+## content/build-scripts
 
 This flowchart represents the high-level interaction of components under the `build-scripts`, `cmake` and `build` folders.
 

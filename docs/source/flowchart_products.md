@@ -1,4 +1,4 @@
-# content/products
+## content/products
 
 This flowchart represents the high-level interaction of components under the `products` folder.
 

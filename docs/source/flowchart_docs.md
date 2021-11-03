@@ -1,4 +1,4 @@
-# content/docs
+## content/docs
 
 This flowchart represents the high-level interaction of components under the `docs` folder.
 
