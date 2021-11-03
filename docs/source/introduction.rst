@@ -20,3 +20,20 @@ so they can be easily ported, updated or modified locally or even `online <https
    It is intended to automate the maintenance of these flowcharts at some level. However,
    to achieve this, we first need to assess the means to simplify the structure, and
    these flowcharts are the beginning of those assessments.
+
+CMake Graphs
+============
+
+If you want to see nice graph showing dependencies between CMake targets, there is also a
+CMake feature worth to be checked.
+
+For example, the following commands will generate a `png` image showing the dependencies
+for the rhel8 build target:
+.. code-block:: bash
+   cd content/build
+   cmake --graphviz=ssg.dot ..
+   dot -Tpng -o rhel8.png ssg.dot.rhel8
+   xdg-open rhel8.png
+
+.. seealso::
+   `PR which made this great feature to nicely work in this project <https://github.com/ComplianceAsCode/content/pull/7767>`_
