@@ -36,4 +36,5 @@ for the rhel8 build target::
    xdg-open rhel8.png
 
 .. seealso::
-   `PR which made this great feature to nicely work in this project <https://github.com/ComplianceAsCode/content/pull/7767>`_
+   PR which made this great feature to nicely work in this project:
+   `<https://github.com/ComplianceAsCode/content/pull/7767>`_
